@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="hello">Hello, welcome to EasyPlayer!</string>
+  <string name="app_name">EasyPlayer</string>
+  <string name="file_manager">FileManager</string>
+  <string name="str_button1">按我播放音乐</string>
+  <string name="str_button2">停止播放音乐</string>
+  <string name="str_start">正在播放音乐...</string>
+  <string name="str_pause">暂停(再按一次继续)...</string>
+  <string name="str_finished">音乐播放完毕</string>
+  <string name="str_stopped">已停止播放音乐</string>
+</resources>
